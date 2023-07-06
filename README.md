@@ -1,2 +1,2 @@
 # Face-Mask-Detection-Using-Python
-Face mask detection project using python : Tensorflow, Keras, OpenCV. Have used DNN networks and comparatively large dataset.
+Face mask detection project using python : Tensorflow, Keras, OpenCV. In the project the video source is used. The mask detector model is trained using tensoflow and MobileNet V2 is used.
